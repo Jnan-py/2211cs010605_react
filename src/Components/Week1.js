@@ -31,7 +31,7 @@ function Week1() {
           Myself Yalla Jnan Devi Satya Prasad of Roll Number 2211CS010605<br />
           I am currently studying Btech 2nd year in Malla Reddy University<br />
           Am a student enrolled in CSE General course.<br />
-          IDLYYYYY<br />
+          DOSAAAA<br />
           My schooling is done in Chennai, and completed inter from Narayana College <br />
         </b>
       </p>
